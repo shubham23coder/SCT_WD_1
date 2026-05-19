@@ -6,7 +6,9 @@
 
 # Project Overview
 
-This project is a fully responsive landing page created using HTML, CSS, and JavaScript as part of the SkillCraft Technology Web Development Internship & the website includes an interactive fixed navigation menu that changes style while scrolling and provides hover effects for better user experience.
+This project is a fully responsive landing page created using HTML, CSS, and JavaScript as part of the SkillCraft Technology Web Development Internship.
+
+The website includes an interactive fixed navigation menu that changes style while scrolling and provides hover effects for better user experience.
 
 The landing page is designed with a modern user interface and smooth responsiveness across desktop, tablet, and mobile devices.
 
@@ -69,5 +71,5 @@ responsive-landing-page/
 │
 ├── README.md
 ├── index.html
-├── style.css
-└── script.js
+├── script.js
+└── style.css
